@@ -1,10 +1,10 @@
 :root {
     /* Variaveis responsaveis por cores do projeto */
     --primary-color: rgb(241, 93, 180);
-    --secondary-color: rgb(230, 90, 48);
+    --secondary-color: rgba(96, 190, 175, 0.822);
     --border-color: rgb(224, 143, 36);
-    --background-color: rgb(116, 238, 191);
-    --secondary-background-color: rgb(181, 241, 101);
+    --background-color: rgb(47, 221, 154);
+    --secondary-background-color: rgb(172, 115, 236);
     --text-color: black;
     --text-secondary-color: rgb(247, 243, 243);
 
